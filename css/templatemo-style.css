@@ -409,6 +409,11 @@ svg
         background: #ffffff;
         color: #D43F52;
     }
+
+#contact row
+    {
+	padding: 20px;
+    }
 /* end contact */
 
 /* start footer */
