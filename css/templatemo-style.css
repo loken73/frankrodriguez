@@ -421,6 +421,15 @@ footer hr
     {
         width: 100px;
     }
+a   
+    {
+	color: #ffffff;
+	text-decoration: underline;
+    }
+a:hover
+    {
+	color: #D43F52;
+    }
 /* end footer */
 
 /* start social icon */
