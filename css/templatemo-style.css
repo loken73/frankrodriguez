@@ -266,8 +266,8 @@ svg
 .svg-cont
     {
         border: 2px solid #ffffff;
-        border-radius: 20%;
-        margin-right: 24px;
+        border-radius: 50%;
+        width:3.5em;
 	padding: 5px;
         text-align: center;
         vertical-align: middle;
@@ -275,7 +275,7 @@ svg
     }
 
 
-svg:hover
+.svg-cont:hover
     {
         background: #ffffff;
         cursor: pointer;
