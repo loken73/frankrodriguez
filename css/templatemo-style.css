@@ -226,7 +226,7 @@ h1,h2,h3,h4,h5
       margin-top: 30px;
     }
 	
-#work .media .fa .fa-brands .fas .fa-solid
+svg #work .media .fa .fa-brands .fas .fa-solid
     {
         border: 2px solid #ffffff;
         border-radius: 50%;
@@ -240,7 +240,7 @@ h1,h2,h3,h4,h5
         vertical-align: middle;
         transition: all 0.4s ease-in;
     }
-#work .media .fa:hover .fa-brands:hover .fas:hover .fa-solid:hover
+svg:hover #work .media .fa:hover .fa-brands:hover .fas:hover .fa-solid:hover 
     {
         background: #ffffff;
         cursor: pointer;
