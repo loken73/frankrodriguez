@@ -421,12 +421,12 @@ footer hr
     {
         width: 100px;
     }
-a   
+a.contacts   
     {
 	color: #ffffff;
 	text-decoration: underline;
     }
-a:hover
+a.contacts:hover
     {
 	color: #D43F52;
     }
