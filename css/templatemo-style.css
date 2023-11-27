@@ -226,7 +226,7 @@ h1,h2,h3,h4,h5
       margin-top: 30px;
     }
 	
-svg #work .media .fa .fa-brands .fas .fa-solid
+#work .media .fa .fa-brands .fas .fa-solid
     {
         border: 2px solid #ffffff;
         border-radius: 50%;
@@ -240,7 +240,26 @@ svg #work .media .fa .fa-brands .fas .fa-solid
         vertical-align: middle;
         transition: all 0.4s ease-in;
     }
-svg:hover #work .media .fa:hover .fa-brands:hover .fas:hover .fa-solid:hover 
+svg
+    {
+        border: 2px solid #ffffff;
+        border-radius: 50%;
+        color: #D43F52;
+        font-size: 24px;
+        margin-right: 24px;
+        width: 60px;
+        height: 60px;
+        line-height: 55px;
+        text-align: center;
+        vertical-align: middle;
+        transition: all 0.4s ease-in;
+    }
+#work .media .fa:hover .fa-brands:hover .fas:hover .fa-solid:hover 
+    {
+        background: #ffffff;
+        cursor: pointer;
+    }
+svg:hover
     {
         background: #ffffff;
         cursor: pointer;
