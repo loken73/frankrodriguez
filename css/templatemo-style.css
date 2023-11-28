@@ -463,7 +463,7 @@ p.contact-icon
 @media (min-width: 1200px) and (max-width: 1300px) {
   /* Your styles for screens between 768px and 1200px */
   p.contact-icon {
-    margin-left: 33%;
+    margin-left: 41%;
     width: 33%;
     text-align: left;
   }
