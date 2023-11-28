@@ -461,7 +461,7 @@ p.contact-icon
 	
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1199px) {
   p.contact-icon {
     text-align: left;
   }
