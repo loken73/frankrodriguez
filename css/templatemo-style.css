@@ -464,7 +464,8 @@ p.contact-icon
   /* Your styles for screens between 768px and 1200px */
   p.contact-icon {
     margin-left: 33%;
-    width: 100%;
+    width: 33%;
+    text-align: left;
   }
 }
 	
