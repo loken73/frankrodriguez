@@ -448,7 +448,7 @@ p.contact-icon
     {
 	text-align:center;
     }
-@media (max-width: 577px) {
+@media (max-width: 769px) {
   p.contact-icon {
     text-align: left;
   }
