@@ -458,8 +458,16 @@ p.contact-icon
   .icon-even {
     width: 25%;
   }
-	
 }
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+  /* Your styles for screens between 768px and 1200px */
+  p.contact-icon {
+    margin-left: 33%;
+    width: 100%;
+  }
+}
+	
 
 @media (max-width: 1199px) {
   p.contact-icon {
