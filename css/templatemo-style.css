@@ -453,8 +453,9 @@ p.contact-icon
     text-align: left;
   }
 
-  .row-footer {
-    padding: 5px;
+  .footer-row {
+    padding-top: 5px;
+    padding-bottom: 0px;
   }
 }
 /* end footer */
