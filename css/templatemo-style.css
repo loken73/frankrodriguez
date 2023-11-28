@@ -458,6 +458,12 @@ p.contact-icon
     padding-bottom: 0px;
   }
 }
+
+@media (max-width: 450px) {
+  p.contact-icon {
+    margin-left: 33%;
+  }
+}
 /* end footer */
 
 /* start social icon */
