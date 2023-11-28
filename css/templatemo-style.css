@@ -447,6 +447,7 @@ a.contacts:hover
 p.contact-icon
     {
 	text-align:center;
+	padding: 0px;
     }
 @media (max-width: 990px) {
   p.contact-icon {
