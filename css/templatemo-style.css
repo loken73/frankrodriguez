@@ -444,6 +444,15 @@ a.contacts:hover
     {
 	color: #D43F52;
     }
+p.contact-icon
+    {
+	text-align:center;
+    }
+@media (max-width: 576px) {
+  p.contact-icon {
+    text-align: left;
+  }
+}
 /* end footer */
 
 /* start social icon */
