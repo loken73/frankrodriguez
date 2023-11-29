@@ -359,14 +359,6 @@ svg
         opacity: 0.8;
         transform: scale(0.9);
     }
-
-@media (min-width: 576px) {
-  .portfolio-thumb img 
-    {
-      height: 320px !important;
-      width: 100%;
-    }
-}
 /* end portfolio */
 
 /* start contact */
@@ -497,6 +489,14 @@ p.contact-icon
   p.contact-icon {
     margin-left: 25%;
   }
+}
+
+@media (min-width: 576px) {
+  .portfolio-thumb img 
+    {
+      height: 320px !important;
+      width: 100%;
+    }
 }
 /* end footer */
 
