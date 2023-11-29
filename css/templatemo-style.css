@@ -362,7 +362,7 @@ svg
 
 .portfolio-thumb img 
     {
-	height: 320px;
+	height: 320px !important;;
     }
 /* end portfolio */
 
