@@ -1,7 +1,7 @@
 
 //
 $(document).ready(function() {
-  // Initialize fullPage.js
+  // Initialize fullPage.js without autoScrolling
   $('#fullpage').fullpage({
     'verticalCentered': false,
     'scrolling': false,
@@ -10,18 +10,6 @@ $(document).ready(function() {
     'navigation': true,
     'navigationPosition': 'right',
   });
-
-  // Add a delay to the auto-scrolling between sections
-  function delayScroll() {
-    // Replace 2000 with the desired delay in milliseconds (e.g., 2000 for 2 seconds)
-    setTimeout(function() {
-      $.fn.fullpage.moveSectionDown();
-      delayScroll(); // Recursive call for continuous scrolling
-    }, 10000000);
-  }
-
-  // Start the delayed scrolling when the document is ready
-  delayScroll();
 
   // Initialize WOW.js and other custom functions
   new WOW().init();
