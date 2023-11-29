@@ -17,7 +17,7 @@ $(document).ready(function() {
     setTimeout(function() {
       $.fn.fullpage.moveSectionDown();
       delayScroll(); // Recursive call for continuous scrolling
-    }, 2000);
+    }, 10000000);
   }
 
   // Start the delayed scrolling when the document is ready
