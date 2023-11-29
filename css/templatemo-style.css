@@ -360,9 +360,11 @@ svg
         transform: scale(0.9);
     }
 
-.portfolio-thumb img 
+@media (min-width: 576px) {
+  .portfolio-thumb img 
     {
-	height: 320px !important;;
+      height: 320px !important;
+      width: 100%;
     }
 /* end portfolio */
 
