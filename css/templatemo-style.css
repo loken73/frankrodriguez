@@ -360,10 +360,9 @@ svg
         transform: scale(0.9);
     }
 
-.short-images 
+.portfolio-thumb img 
     {
-	margin-top:20%;
-	margin-bottom:20%;
+	height: 20%;
     }
 /* end portfolio */
 
