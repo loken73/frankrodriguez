@@ -16,4 +16,5 @@ $(function()
 {
     new WOW().init();
     $(".rotate").textrotator();
+    $('.fp-viewing').removeClass('fp-viewing');
 })
