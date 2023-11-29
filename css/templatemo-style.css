@@ -492,8 +492,7 @@ p.contact-icon
 }
 
 @media (min-width: 576px) {
-  .portfolio-thumb img 
-    {
+  .portfolio-thumb img {
       height: 320px !important;
       width: 100%;
     }
