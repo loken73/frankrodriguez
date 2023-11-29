@@ -359,6 +359,12 @@ svg
         opacity: 0.8;
         transform: scale(0.9);
     }
+
+.short-images 
+    {
+	margin-top:20%;
+	margin-bottom:20%;
+    }
 /* end portfolio */
 
 /* start contact */
