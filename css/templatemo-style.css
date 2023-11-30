@@ -359,6 +359,12 @@ svg
         opacity: 0.8;
         transform: scale(0.9);
     }
+.portfolio-thumb h5 
+    {
+	width:90%;
+	text-align: center;
+	margin: auto;
+    }
 .portfolio-link
     {
 	/*text-decoration: underline;*/
@@ -367,6 +373,11 @@ svg
     {
 	text-decoration: underline;
     }
+.portfolio-link a
+    {
+	color: white;
+    }
+
 /* end portfolio */
 
 /* start contact */
