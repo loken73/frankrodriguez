@@ -371,11 +371,13 @@ svg
     }
 .portfolio-link:hover
     {
-	text-decoration: underline;
+	color: #FFD700;
     }
 .portfolio-link a
     {
 	color: white;
+	text-decoration: underline;
+	font-weight: bold;
     }
 
 /* end portfolio */
