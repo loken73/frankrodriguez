@@ -356,7 +356,7 @@ svg
 #portfolio .portfolio-thumb:hover .portfolio-overlay
     {
         cursor: pointer;
-        opacity: 0.88;
+        opacity: 0.99;
         transform: scale(0.9);
     }
 .portfolio-thumb h5 
